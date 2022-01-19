@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["DevOps", "Github", "Maven","Jenkins","Docker","Nexus","Anisble","SonarQube","Kubernetes"],
+    strings: ["DevOps", "Github", "Maven", "Jenkins", "Docker", "Nexus", "Anisble", "SonarQube", "Kubernetes"],
     typeSpeed: 50,
     startDelay: 900,
     showCursor: false,
